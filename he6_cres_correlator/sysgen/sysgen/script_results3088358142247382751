@@ -1,0 +1,3201 @@
+[
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  undef,
+  [
+    [
+      'xlpersistentdff.ngc',
+      undef,
+    ],
+    '/home/brent/Desktop/he6cres_correlator/he6_cres_correlator/sysgen/sysgen/perl_results.vhd',
+  ],
+  [
+    [
+      'bmg_72_b3a5d690118dc305.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_3471d49fd6e899d2.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_7d18046e7b7c5e7a.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_1640ba8a478928b3.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'mult_11_2_b3e3ad78c7d21704.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_81b435f9a41a8de3.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_6f5b216e349e04e0.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_8e2f9d152d14263e.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_ffb4b8e6a1869a4a.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_98882796f45625cb.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_50631a4fdbedee3a.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_14f58d3187abde45.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_fc259590348866de.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'cntr_11_0_2fa687a4fd8aa200.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_986c366aae4be05d.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_6d2cfd52c53670b3.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_02a980c9aa9b0535.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_af3b43ce34891be6.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_a63867243b76433f.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_59bb78965fc20a49.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_730496867cd75f1e.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_46c2172210d730b3.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_7a6e30cd29f87404.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'cntr_11_0_8513360a51c30657.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'cntr_11_0_541f86689cddfa59.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_797d180cdbf0046e.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_88a3fd223f485e8a.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_d9e8b569ea27a9e5.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_db0357c42c191153.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_a29f7bcc57c74c3b.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_5baa652c5120a02c.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'dmg_72_4bdef3e2183e064a.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_81b435f9a41a8de3.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_ea91f7204eef1264.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_2c851313e04aebd0.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_63cea93ccf129673.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_9212f4270c490d42.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'cntr_11_0_83c605fb3376e4cf.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_f38341fefbc151d5.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_7d18046e7b7c5e7a.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_8ff2e75b8b509fd9.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_b5e58834d96b3cb1.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_7a6e30cd29f87404.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_ea91f7204eef1264.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_b794889df4d0ec69.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_21758865cfafce47.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_e90c40e5de2551a6.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_eb4ba4ee5ad07826.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_cf691ac6ee8733a9.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_8e74499683501928.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_2894f866823b7de9.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_46c2172210d730b3.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_5861d9696eba38ff.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_2c851313e04aebd0.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'cntr_11_0_83c605fb3376e4cf.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_77679df2442ac302.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_e1b46418f460c985.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_8ff2e75b8b509fd9.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_9b21af6ed15b3d62.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_8e2f9d152d14263e.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_25ac2643f257572c.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_11d13cd84f70eb99.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_efe230359262404f.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_96ab944b43e5c4d3.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_1366619f9bb096bd.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_7ff662aa85879f72.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_50631a4fdbedee3a.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'cntr_11_0_dc3ffb020cfd5b26.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_2441d18d6b2cbfd0.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'mult_11_2_ecdcb40ad0958e64.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_5861d9696eba38ff.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_448274d16c9804a7.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_0e77235adf0aed1d.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_ded209eb01860ee1.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'mult_11_2_04abf2475ee8564d.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'cntr_11_0_5c0d8fded7f0a054.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_59bb78965fc20a49.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_730496867cd75f1e.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_f419e81fef8db9fa.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_bece30c16e103c31.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_bece30c16e103c31.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_ded209eb01860ee1.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_5e0338ff57cbbf31.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_b5c4cba6fbbd091f.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_fc259590348866de.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_3cc72ca7547c281d.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_15abfe73d44907c1.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_f468ef5b99517297.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_2193333e6188e9ee.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_397bc2e17ef62bd7.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_f468ef5b99517297.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_25ac2643f257572c.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_0e77235adf0aed1d.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_8610f827d96057ce.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_7ff662aa85879f72.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_11c202c1b9a21438.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_a6d704d36eb848a5.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_3d1bbfbe6849d726.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'cntr_11_0_dc3ffb020cfd5b26.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_6f5b216e349e04e0.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_88a3fd223f485e8a.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_d53572f04cfc7154.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_8e74499683501928.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_96ab944b43e5c4d3.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_b076d989b180557c.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_e1b46418f460c985.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_397194a7fc06b72c.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_79609f4d77ef4f9a.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_b3a5d690118dc305.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_ded209eb01860ee1.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_d9b3a3982e052de0.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_a7c85af04669be3e.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_284f56a19a87aaea.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_e9f07b7b2f08b8e0.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_b5c4cba6fbbd091f.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_11d13cd84f70eb99.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_2c0a2805649d3a36.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_c3bb7ebe3cb79e87.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_6d2cfd52c53670b3.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_11c202c1b9a21438.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_9212f4270c490d42.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_8ff2e75b8b509fd9.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_0827fe704eed4017.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_986c366aae4be05d.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_5baa652c5120a02c.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_3892e7a2bbe55936.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_db0357c42c191153.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_866d29fad7879883.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_98882796f45625cb.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_8e74499683501928.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_b0a9af5037d5163a.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_853ce479ddde041c.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_a29f7bcc57c74c3b.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_6a49eeb869ee9525.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_853ce479ddde041c.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_853ce479ddde041c.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'cntr_11_0_34bcfe5241b54e91.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_b5c4cba6fbbd091f.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_7ff662aa85879f72.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_448274d16c9804a7.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_2c0a2805649d3a36.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'cntr_11_0_1f194baf1a2b1153.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_b794889df4d0ec69.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_3f3c61289e7ba7ea.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_d9e8b569ea27a9e5.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_81b435f9a41a8de3.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_2894f866823b7de9.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_db0357c42c191153.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_0e77235adf0aed1d.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_f9ac63e4787fa6ff.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_51693f3038eeb355.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_f468ef5b99517297.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_5559e1c25418f22a.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_866d29fad7879883.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_7e5123d892e8a550.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_d6cb91b542ad37c0.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'cntr_11_0_1f194baf1a2b1153.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_d9b3a3982e052de0.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_2193333e6188e9ee.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_ea91f7204eef1264.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'cntr_11_0_541f86689cddfa59.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_ffb4b8e6a1869a4a.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_3d1bbfbe6849d726.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_b0a9af5037d5163a.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_63cea93ccf129673.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_3471d49fd6e899d2.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_14f58d3187abde45.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_1640ba8a478928b3.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_2193333e6188e9ee.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_570d16daded9dae1.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'cntr_11_0_6ebc7c4e4d61e8cb.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_397194a7fc06b72c.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_5fa31a00bae3d0c8.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_5e0338ff57cbbf31.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_8610f827d96057ce.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_7670ae7947456b32.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_7a6e30cd29f87404.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_8e2f9d152d14263e.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_8bea8e341a05ae56.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_63cea93ccf129673.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_797d180cdbf0046e.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_b3a5d690118dc305.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_a7c85af04669be3e.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_51693f3038eeb355.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'cntr_11_0_9469f52619ca1400.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_00770e99d0f3dff9.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_bece30c16e103c31.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_a19310373d0c64c7.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_59bb78965fc20a49.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_3d1bbfbe6849d726.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_e90c40e5de2551a6.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_2c851313e04aebd0.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_228adcdb209ef640.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_25ac2643f257572c.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_02a980c9aa9b0535.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_5d5677e988a1fc94.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_8bea8e341a05ae56.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_b076d989b180557c.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'cntr_11_0_02525873283338a3.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_c3bb7ebe3cb79e87.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_7e5123d892e8a550.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_2441d18d6b2cbfd0.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_f38341fefbc151d5.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_d6cb91b542ad37c0.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_50631a4fdbedee3a.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_ffb4b8e6a1869a4a.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'cntr_11_0_5c0d8fded7f0a054.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_c3bb7ebe3cb79e87.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_d53572f04cfc7154.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_79609f4d77ef4f9a.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_79609f4d77ef4f9a.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_570d16daded9dae1.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_eb4ba4ee5ad07826.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_227723d8114e1014.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_5e0338ff57cbbf31.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_cf691ac6ee8733a9.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'cntr_11_0_6ebc7c4e4d61e8cb.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_e9f07b7b2f08b8e0.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_9212f4270c490d42.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_284f56a19a87aaea.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_3471d49fd6e899d2.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_986c366aae4be05d.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_77679df2442ac302.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_25f2c2372ab0b146.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_397bc2e17ef62bd7.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_7e5123d892e8a550.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_af634d68f1ef6d34.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_9b21af6ed15b3d62.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_46c2172210d730b3.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_f9ac63e4787fa6ff.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_0827fe704eed4017.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_a63867243b76433f.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_5b4a22e47f2359ce.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_00770e99d0f3dff9.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_448274d16c9804a7.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_fc259590348866de.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_3cc72ca7547c281d.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_3e42de61f6cb9950.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_cf691ac6ee8733a9.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_d53572f04cfc7154.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_228adcdb209ef640.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_7670ae7947456b32.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_b794889df4d0ec69.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_7d18046e7b7c5e7a.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_51693f3038eeb355.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_f04fa80dbef694af.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_6a49eeb869ee9525.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_866d29fad7879883.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_0827fe704eed4017.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_a7c85af04669be3e.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'cntr_11_0_9469f52619ca1400.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_c196405d618f523e.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_a6d704d36eb848a5.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'mult_11_2_04abf2475ee8564d.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_d9e8b569ea27a9e5.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_570d16daded9dae1.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_5fa31a00bae3d0c8.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_730496867cd75f1e.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_21758865cfafce47.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_f419e81fef8db9fa.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_c196405d618f523e.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_a6d704d36eb848a5.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_c196405d618f523e.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'cntr_11_0_02525873283338a3.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'dmg_72_4bdef3e2183e064a.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_25f2c2372ab0b146.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_f38341fefbc151d5.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_eb4ba4ee5ad07826.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_397194a7fc06b72c.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_11c202c1b9a21438.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_2c0a2805649d3a36.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_5b4a22e47f2359ce.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_3cc72ca7547c281d.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_797d180cdbf0046e.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_7670ae7947456b32.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_b5e58834d96b3cb1.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_a19310373d0c64c7.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_3f3c61289e7ba7ea.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_7d5e3739feda21ba.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_9b21af6ed15b3d62.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_6f5b216e349e04e0.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_00770e99d0f3dff9.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'mult_11_2_b3e3ad78c7d21704.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_efe230359262404f.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_efe230359262404f.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_2894f866823b7de9.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_02a980c9aa9b0535.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_11d13cd84f70eb99.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_5fa31a00bae3d0c8.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_e9f07b7b2f08b8e0.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_227723d8114e1014.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_b076d989b180557c.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_5d5677e988a1fc94.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_af634d68f1ef6d34.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_2441d18d6b2cbfd0.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_5559e1c25418f22a.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_21758865cfafce47.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_7d5e3739feda21ba.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_f04fa80dbef694af.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_15abfe73d44907c1.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'cntr_11_0_34bcfe5241b54e91.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_5861d9696eba38ff.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_397bc2e17ef62bd7.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_a19310373d0c64c7.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_f419e81fef8db9fa.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_98882796f45625cb.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_1366619f9bb096bd.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_5baa652c5120a02c.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_1640ba8a478928b3.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_d6cb91b542ad37c0.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_b0a9af5037d5163a.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_5d5677e988a1fc94.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_284f56a19a87aaea.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_7d5e3739feda21ba.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_e1b46418f460c985.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_a29f7bcc57c74c3b.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_d817ed8ddb3646eb.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_3e42de61f6cb9950.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_15abfe73d44907c1.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_25f2c2372ab0b146.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_77679df2442ac302.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'dmg_72_4bdef3e2183e064a.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_f9ac63e4787fa6ff.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_3892e7a2bbe55936.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'addsb_11_0_af3b43ce34891be6.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_228adcdb209ef640.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_5559e1c25418f22a.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'cntr_11_0_8513360a51c30657.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_d817ed8ddb3646eb.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_a63867243b76433f.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'cntr_11_0_2fa687a4fd8aa200.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_af634d68f1ef6d34.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_3f3c61289e7ba7ea.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_6d2cfd52c53670b3.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_d817ed8ddb3646eb.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'mult_11_2_ecdcb40ad0958e64.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_96ab944b43e5c4d3.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_3e42de61f6cb9950.ngc',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_b5e58834d96b3cb1.vhd',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+    [
+      'bmg_72_f04fa80dbef694af.mif',
+      {
+        'producer' => 'coregen',
+      },
+    ],
+  ],
+]
